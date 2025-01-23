@@ -1,1 +1,16 @@
-ewogICJzZXJ2ZXIiOiAiaGsxeC5nYWdhZ2FnYS50b3AiLAogICJzZXJ2ZXJfcG9ydCI6IDM1MDAwLAogICJwYXNzd29yZCI6ICIwYzE0MWNiMy0yMTlmLTQwYTktOTY3NC0zZDBhYTc1OWU5ZDIiLAogICJtZXRob2QiOiAibm9uZSIsCiAgIm9iZnMiOiAibm9uZSIsCiAgInByb3RvY29sIjogIm5vbmUiLAogICJvYmZzX3BhcmFtIjogIiIsCiAgInVkcCI6IHRydWUsCiAgInJlbWFya3MiOiAi5YmpIOS9mSDmtYEg6YePIO+8miAyOTkuR0IiLAogICJ1dWlkIjogIjIzMjJkZWY0LTk0NTktN2JjNC02NzQ5LWFiYzIxNjgxY2Y1ZCIsCiAgInVybCI6ICJodHRwczovL3JnZXJnZXJnZXJnZXJnNzc3NjAuc2dqY2Nsb3VkLnRvcC9hcGkvdjEvY2xpZW50L3N1YnNjcmliZT90b2tlbj03ZGNmMWI3YWE2NDNkZGU4NTRkZWE0OWI2MzFmYWU3MSZmbGFnPXNoYWRvd3JvY2tldCIsCiAgInRscyI6IGZhbHNlLAogICJwb3J0IjogIjM1MDAwLTM2MDAwIiwKICAicGVlciI6ICJ3d3cuYmluZy5jb20iCn0=
+{
+  "server": "hk1x.gagagaga.top",
+  "server_port": 35000,
+  "password": "0c141cb3-219f-40a9-9674-3d0aa759e9d2",
+  "method": "none",
+  "obfs": "none",
+  "protocol": "none",
+  "obfs_param": "",
+  "udp": true,
+  "remarks": "剩 余 流 量 ： 299.GB",
+  "uuid": "2322def4-9459-7bc4-6749-abc21681cf5d",
+  "url": "https://rgergergergerg77760.sgjccloud.top/api/v1/client/subscribe?token=7dcf1b7aa643dde854dea49b631fae71&flag=shadowrocket",
+  "tls": false,
+  "port": "35000-36000",
+  "peer": "www.bing.com"
+}
